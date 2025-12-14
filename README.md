@@ -20,16 +20,16 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 ---
 
-## Scenario-1 **Query:** *Get employees with equal salary*
+## Scenario1 **Query:** *Get employees with equal salary*
 
 
 **Input DataFrame:**
 
-![Scenario-1 Input](Images/input-scenario1.png)
+![Scenario1 Input](Images/input-scenario1.png)
 
 **Expected Output:**
 
-![Scenario-1 Output](Images/output-scenario1.png)
+![Scenario1 Output](Images/output-scenario1.png)
 
 **Solution Links:**
 
@@ -39,15 +39,15 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 ---
 
-## Scenario-2 **Query:** *Join with handling nulls*
+## Scenario2 **Query:** *Join with handling nulls*
 
 **Input DataFrame:**
 
-![Scenario-2 Input](Images/input-scenario2.png)
+![Scenario2 Input](Images/input-scenario2.png)
 
 **Expected Output:**
 
-![Scenario-2 Output](Images/output-scenario2.png)
+![Scenario2 Output](Images/output-scenario2.png)
 
 **Solution Links:**
 
@@ -57,17 +57,17 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 ---
 
-## Scenario-3
+## Scenario3
 
 **Query:** *(Add query description here)*
 
 **Input DataFrame:**
 
-![Scenario-3 Input](Images/input-scenario3.png)
+![Scenario3 Input](Images/input-scenario3.png)
 
 **Expected Output:**
 
-![Scenario-3 Output](Images/output-scenario3.png)
+![Scenario3 Output](Images/output-scenario3.png)
 
 **Solution Links:**
 
@@ -77,17 +77,17 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 ---
 
-## Scenario-4
+## Scenario4
 
 **Query:** *(Add query description here)*
 
 **Input DataFrame:**
 
-![Scenario-4 Input](Images/input-scenario4.png)
+![Scenario4 Input](Images/input-scenario4.png)
 
 **Expected Output:**
 
-![Scenario-4 Output](Images/output-scenario4.png)
+![Scenario4 Output](Images/output-scenario4.png)
 
 **Solution Links:**
 
@@ -97,17 +97,17 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 ---
 
-## Scenario-5
+## Scenario5
 
 **Query:** *(Add query description here)*
 
 **Input DataFrame:**
 
-![Scenario-5 Input](Images/input-scenario5.png)
+![Scenario5 Input](Images/input-scenario5.png)
 
 **Expected Output:**
 
-![Scenario-5 Output](Images/output-scenario5.png)
+![Scenario5 Output](Images/output-scenario5.png)
 
 **Solution Links:**
 
