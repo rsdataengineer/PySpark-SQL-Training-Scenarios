@@ -1,7 +1,7 @@
 # PySpark-SQL-Training-Scenarios
 This repository contains a collection of practical **PySpark and Spark SQL training scenarios** designed for learning, practice, and reference.
 
-# PySpark-SQL Training Scenarios
+## PySpark-SQL Training Scenarios
 
 ## Table of Contents
 
@@ -26,16 +26,15 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 **Input DataFrame:**
 
-![Scenario-1 Input](images/scenario1_input.png)
+![Scenario-1 Input](images/input-scenario1.png)
 
 **Expected Output:**
 
-![Scenario-1 Output](images/scenario1_output.png)
+![Scenario-1 Output](images/output-scenario1.png)
 
 **Solution Links:**
 
-- **PySpark:** [Scenario-1.py](PyFiles/Scenario-1.py)  
-
+- **PySpark:** [Scenario1.py](PyFiles/Scenario1.py)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -47,15 +46,15 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 **Input DataFrame:**
 
-![Scenario-2 Input](images/scenario2_input.png)
+![Scenario-2 Input](images/input-scenario2.png)
 
 **Expected Output:**
 
-![Scenario-2 Output](images/scenario2_output.png)
+![Scenario-2 Output](images/output-scenario2.png)
 
 **Solution Links:**
 
-- **PySpark:** [Scenario-2.py](PyFiles/Scenario-2.py)  
+- **PySpark:** [Scenario2.py](PyFiles/Scenario2.py)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -67,15 +66,15 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 **Input DataFrame:**
 
-![Scenario-3 Input](images/scenario3_input.png)
+![Scenario-3 Input](images/input-scenario3.png)
 
 **Expected Output:**
 
-![Scenario-3 Output](images/scenario3_output.png)
+![Scenario-3 Output](images/output-scenario3.png)
 
 **Solution Links:**
 
-- **PySpark:** [Scenario-3.py](PyFiles/Scenario-3.py)  
+- **PySpark:** [Scenario3.py](PyFiles/Scenario3.py)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -87,15 +86,15 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 **Input DataFrame:**
 
-![Scenario-4 Input](images/scenario4_input.png)
+![Scenario-4 Input](images/input-scenario4.png)
 
 **Expected Output:**
 
-![Scenario-4 Output](images/scenario4_output.png)
+![Scenario-4 Output](images/output-scenario4.png)
 
 **Solution Links:**
 
-- **PySpark:** [Scenario-4.py](PyFiles/Scenario-4.py)  
+- **PySpark:** [Scenario4.py](PyFiles/Scenario4.py)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -107,15 +106,15 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 **Input DataFrame:**
 
-![Scenario-5 Input](images/scenario5_input.png)
+![Scenario-5 Input](images/input-scenario5.png)
 
 **Expected Output:**
 
-![Scenario-5 Output](images/scenario5_output.png)
+![Scenario-5 Output](images/output-scenario5.png)
 
 **Solution Links:**
 
-- **PySpark:** [Scenario-5.py](PyFiles/Scenario-5.py)  
+- **PySpark:** [Scenario5.py](PyFiles/Scenario5.py)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -127,15 +126,15 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 **Input DataFrame:**
 
-![Scenario-6 Input](images/scenario6_input.png)
+![Scenario-6 Input](images/input-scenario6.png)
 
 **Expected Output:**
 
-![Scenario-6 Output](images/scenario6_output.png)
+![Scenario-6 Output](images/output-scenario6.png)
 
 **Solution Links:**
 
-- **PySpark:** [Scenario-6.py](PyFiles/Scenario-6.py)  
+- **PySpark:** [Scenario6.py](PyFiles/Scenario6.py)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -147,15 +146,15 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 **Input DataFrame:**
 
-![Scenario-7 Input](images/scenario7_input.png)
+![Scenario-7 Input](images/input-scenario7.png)
 
 **Expected Output:**
 
-![Scenario-7 Output](images/scenario7_output.png)
+![Scenario-7 Output](images/output-scenario7.png)
 
 **Solution Links:**
 
-- **PySpark:** [Scenario-7.py](PyFiles/Scenario-7.py)  
+- **PySpark:** [Scenario7.py](PyFiles/Scenario7.py)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -167,15 +166,15 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 **Input DataFrame:**
 
-![Scenario-8 Input](images/scenario8_input.png)
+![Scenario-8 Input](images/input-scenario8.png)
 
 **Expected Output:**
 
-![Scenario-8 Output](images/scenario8_output.png)
+![Scenario-8 Output](images/output-scenario8.png)
 
 **Solution Links:**
 
-- **PySpark:** [Scenario-8.py](PyFiles/Scenario-8.py)  
+- **PySpark:** [Scenario8.py](PyFiles/Scenario8.py)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -187,15 +186,15 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 **Input DataFrame:**
 
-![Scenario-9 Input](images/scenario9_input.png)
+![Scenario-9 Input](images/input-scenario9.png)
 
 **Expected Output:**
 
-![Scenario-9 Output](images/scenario9_output.png)
+![Scenario-9 Output](images/output-scenario9.png)
 
 **Solution Links:**
 
-- **PySpark:** [Scenario-9.py](PyFiles/Scenario-9.py)  
+- **PySpark:** [Scenario9.py](PyFiles/Scenario9.py)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -207,15 +206,14 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 **Input DataFrame:**
 
-![Scenario-10 Input](images/scenario10_input.png)
+![Scenario-10 Input](images/input-scenario10.png)
 
 **Expected Output:**
 
-![Scenario-10 Output](images/scenario10_output.png)
+![Scenario-10 Output](images/output-scenario10.png)
 
 **Solution Links:**
 
-- **PySpark:** [Scenario-10.py](PyFiles/Scenario-10.py)  
+- **PySpark:** [Scenario10.py](PyFiles/Scenario10.py)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
-
