@@ -62,7 +62,7 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 ## Scenario3
 
-**Query:** *(Add query description here)*
+**Query:** *Find collection by each person and count of collection*
 
 **Input DataFrame:**
 
