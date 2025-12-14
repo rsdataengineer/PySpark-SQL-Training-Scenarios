@@ -7,20 +7,20 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 | No | Scenario |
 |----|---------|
-| 1  | [Scenario-1](#scenario1) |
-| 2  | [Scenario-2](#scenario2) |
-| 3  | [Scenario-3](#scenario3) |
-| 4  | [Scenario-4](#scenario4) |
-| 5  | [Scenario-5](#scenario5) |
-| 6  | [Scenario-6](#scenario6) |
-| 7  | [Scenario-7](#scenario7) |
-| 8  | [Scenario-8](#scenario8) |
-| 9  | [Scenario-9](#scenario9) |
-| 10 | [Scenario-10](#scenario10) |
+| 1  | [Scenario1](#scenario1) |
+| 2  | [Scenario2](#scenario2) |
+| 3  | [Scenario3](#scenario3) |
+| 4  | [Scenario4](#scenario4) |
+| 5  | [Scenario5](#scenario5) |
+| 6  | [Scenario6](#scenario6) |
+| 7  | [Scenario7](#scenario7) |
+| 8  | [Scenario8](#scenario8) |
+| 9  | [Scenario9](#scenario9) |
+| 10 | [Scenario10](#scenario10) |
 
 ---
 
-## Scenario-1 **Query:** Get employees with equal salary
+## Scenario-1 **Query:** *Get employees with equal salary*
 
 
 **Input DataFrame:**
