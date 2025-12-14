@@ -20,9 +20,8 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 ---
 
-## Scenario-1
+## Scenario-1 **Query:** Get employees with equal salary
 
-**Query:** Get employees with equal salary
 
 **Input DataFrame:**
 
