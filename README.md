@@ -35,7 +35,7 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 **Solution Links:**
 
 - **PySpark:** [Scenario-1.py](PyFiles/Scenario-1.py)  
-- **Scala-Spark:** [Scenerio1.scala](src/pack/Scenerio1.scala)
+
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -56,7 +56,6 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 **Solution Links:**
 
 - **PySpark:** [Scenario-2.py](PyFiles/Scenario-2.py)  
-- **Scala-Spark:** [Scenerio2.scala](src/pack/Scenerio2.scala)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -77,7 +76,6 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 **Solution Links:**
 
 - **PySpark:** [Scenario-3.py](PyFiles/Scenario-3.py)  
-- **Scala-Spark:** [Scenerio3.scala](src/pack/Scenerio3.scala)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -98,7 +96,6 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 **Solution Links:**
 
 - **PySpark:** [Scenario-4.py](PyFiles/Scenario-4.py)  
-- **Scala-Spark:** [Scenerio4.scala](src/pack/Scenerio4.scala)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -119,7 +116,6 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 **Solution Links:**
 
 - **PySpark:** [Scenario-5.py](PyFiles/Scenario-5.py)  
-- **Scala-Spark:** [Scenerio5.scala](src/pack/Scenerio5.scala)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -140,7 +136,6 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 **Solution Links:**
 
 - **PySpark:** [Scenario-6.py](PyFiles/Scenario-6.py)  
-- **Scala-Spark:** [Scenerio6.scala](src/pack/Scenerio6.scala)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -161,7 +156,6 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 **Solution Links:**
 
 - **PySpark:** [Scenario-7.py](PyFiles/Scenario-7.py)  
-- **Scala-Spark:** [Scenerio7.scala](src/pack/Scenerio7.scala)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -182,7 +176,6 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 **Solution Links:**
 
 - **PySpark:** [Scenario-8.py](PyFiles/Scenario-8.py)  
-- **Scala-Spark:** [Scenerio8.scala](src/pack/Scenerio8.scala)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -203,7 +196,6 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 **Solution Links:**
 
 - **PySpark:** [Scenario-9.py](PyFiles/Scenario-9.py)  
-- **Scala-Spark:** [Scenerio9.scala](src/pack/Scenerio9.scala)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
@@ -224,7 +216,6 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 **Solution Links:**
 
 - **PySpark:** [Scenario-10.py](PyFiles/Scenario-10.py)  
-- **Scala-Spark:** [Scenerio10.scala](src/pack/Scenerio10.scala)
 
 [⬆ Back to Top](#pyspark-sql-training-scenarios)
 
