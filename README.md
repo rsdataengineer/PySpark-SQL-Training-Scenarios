@@ -7,16 +7,16 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 | No | Scenario |
 |----|---------|
-| 1  | [Scenario-1](#scenario-1) |
-| 2  | [Scenario-2](#scenario-2) |
-| 3  | [Scenario-3](#scenario-3) |
-| 4  | [Scenario-4](#scenario-4) |
-| 5  | [Scenario-5](#scenario-5) |
-| 6  | [Scenario-6](#scenario-6) |
-| 7  | [Scenario-7](#scenario-7) |
-| 8  | [Scenario-8](#scenario-8) |
-| 9  | [Scenario-9](#scenario-9) |
-| 10 | [Scenario-10](#scenario-10) |
+| 1  | [Scenario-1](#scenario1) |
+| 2  | [Scenario-2](#scenario2) |
+| 3  | [Scenario-3](#scenario3) |
+| 4  | [Scenario-4](#scenario4) |
+| 5  | [Scenario-5](#scenario5) |
+| 6  | [Scenario-6](#scenario6) |
+| 7  | [Scenario-7](#scenario7) |
+| 8  | [Scenario-8](#scenario8) |
+| 9  | [Scenario-9](#scenario9) |
+| 10 | [Scenario-10](#scenario10) |
 
 ---
 
@@ -39,9 +39,7 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 ---
 
-## Scenario-2
-
-**Query:** *(Add query description here)*
+## Scenario-2 **Query:** *Join with handling nulls*
 
 **Input DataFrame:**
 
