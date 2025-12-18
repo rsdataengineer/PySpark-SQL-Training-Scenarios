@@ -82,7 +82,7 @@ This repository contains a collection of practical **PySpark and Spark SQL train
 
 ## Scenario4
 
-**Query:** *(Add query description here)*
+**Query:** *Masking the account number of the users*
 
 **Input DataFrame:**
 
